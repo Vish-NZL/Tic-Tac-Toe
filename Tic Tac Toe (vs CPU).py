@@ -1,5 +1,6 @@
-import random
+# This version of the game allows you to play against a cpu opponent
 
+import random
 
 # Function to print the game board
 def print_board(board):
